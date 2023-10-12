@@ -1,6 +1,5 @@
 package com.kendallrundquist.movies;
 
-import com.fasterxml.jackson.core.ObjectCodec;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
